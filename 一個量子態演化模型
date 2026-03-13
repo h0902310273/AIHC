@@ -1,0 +1,41 @@
+AICH — Artificial Intelligence Count Hypothesis
+Diophantine structure
+↓
+lattice vector
+↓
+sphere constraint
+↓
+quantum state normalization
+↓
+hypercube structure
+
+AICH is a research prototype exploring a normalized differential
+algebra system called Count Algebra and its implementation
+in quantum simulation.
+
+Core ideas:
+- Count Algebra
+- Normalized Differential System
+- Quantum State Encoding
+
+This repository contains experimental simulators
+implemented with Qiskit.
+
+A = 5/6
+B = 1/6
+
+alpha = np.sqrt(A)
+beta = np.sqrt(B)
+
+qc.initialize([alpha, beta], 0
+
+A + B = 1
+Count Algebra → Quantum State
+
+ΔA
+ΔB
+Count Differential System
+dA/dt = f(A,B)
+dB/dt = g(A,B)
+
+
